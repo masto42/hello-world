@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+hi everybody
+
+trying to make something useful or not
